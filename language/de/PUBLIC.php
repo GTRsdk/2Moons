@@ -2,29 +2,29 @@
 
 //general
 $LNG['index']				= 'Index';
-$LNG['register']			= 'Registrieren';
+$LNG['register']			= 'Register';
 $LNG['forum']				= 'Forum';
-$LNG['send']				= 'Absenden';
-$LNG['menu_index']			= 'IndeX';
+$LNG['send']				= 'Send';
+$LNG['menu_index']			= 'Index';
 $LNG['menu_news']			= 'News';
-$LNG['menu_rules']			= 'Regeln';
-$LNG['menu_pranger']		= 'Pranger';
+$LNG['menu_rules']			= 'Rules';
+$LNG['menu_pranger']		= 'Banned';
 $LNG['menu_top100']			= 'Hall of Fame';
-$LNG['menu_disclamer']		= 'Impressum';
+$LNG['menu_disclamer']		= 'Contact';
 $LNG['uni_closed']			= ' (closed)';
 
 //index.php
 //case lostpassword
 
-$LNG['lost_empty']			= 'Du musst alle Felder ausfüllen!';
-$LNG['lost_not_exists']		= 'Es konnte kein User in Verbindung mit dieser Mail Adresse gefunden werden!';
-$LNG['lost_mail_title']		= 'Neues Passwort';
-$LNG['mail_sended']			= 'Dein Passwort wurde an %s erfolgreich gesendet!';
+$LNG['lost_empty']			= 'You must fill in all of the fields';
+$LNG['lost_not_exists']		= 'No user with this email addres could be found';
+$LNG['lost_mail_title']		= 'New Password';
+$LNG['mail_sended']			= 'Your password has been successfully sent to %s';
 
 //case default
 
 $LNG['server_infos']			= array(
-	"Ein Weltraum-Strategiespiel in Echtzeit.",
+	"A space strategy game in real time.",
 	"Spiele zusammen mit hunderten Usern.",
 	"Kein Download, es wird nur ein Standardbrowser benötigt.",
 	"Kostenlose Registrierung",
