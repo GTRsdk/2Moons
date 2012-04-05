@@ -27,43 +27,43 @@
  * @link http://code.google.com/p/2moons/
  */
 
-$LNG['back']					= 'Zurück';
-$LNG['continue']				= 'Weiter';
+$LNG['back']					= 'Back';
+$LNG['continue']				= 'Continue';
 $LNG['login']					= 'Login';
 
 $LNG['menu_intro']				= 'Intro';
-$LNG['menu_install']			= 'Installieren';
-$LNG['menu_license']			= 'Lizenz';
+$LNG['menu_install']			= 'Install';
+$LNG['menu_license']			= 'License';
 
-$LNG['title_install']			= 'Installer';
+$LNG['title_install']			= 'Install';
 
-$LNG['intro_lang']				= 'Sprache';
-$LNG['intro_install']			= 'Zur Installation';
-$LNG['intro_welcome']			= 'Herzlich Willkommen beim 2Moons!';
-$LNG['intro_text']				= '2Moons ist eines der besten Klone von OGame.<br>2Moons ist die neueste und stabilste XNova Version je entwickelt wurde. 2Moons glänzt durch Stabilität, Flexibilität, Dynamik, Qualität und Benutzerfreundlichkeit. Wir hoffen immer besser zu sein als ihre Erwartungen.<br><br>Das Installations-System führt Sie durch die Installation, oder Upgrade auf einer vorherigen Version auf die neueste ein. Jede Frage, ein Problem zögern Sie bitte nicht, unsere Entwicklung und Unterstützung zu ersuchen.<br><br>2Moons ist ein OpenSource-Projekt und ist under GNU GPL v3 lizenziert. Zur Lizenz klicken Sie bitte im Menu auf die entsprechenden Menüpunkt.<br><br>Bevor die Installation gestartet werden kann, wird vorher ein kleiner Test durchgeführt, ob sie die Mindestanforderungen unterstützen.';
+$LNG['intro_lang']				= 'Language';
+$LNG['intro_install']			= 'Installation';
+$LNG['intro_welcome']			= 'Welcome to 2Moons!';
+$LNG['intro_text']				= 'One of the best clones of OGame is 2 Moons.<br>The latest is and 2 Moons the stablest flat rate was ever developed. 2 of Moon shines by stability, flexibility, dynamics, quality and user-friendliness. We hope always to be better than her expectations.<br><br>The installation system guides you through the install or upgrade from an older version to the latest. On questions or trouble dont hesitate to contact us.<br><br>2Moons is an open source project licensed under the GNU GPL v3. For the license please click on the item in the menu.<br><br>Before the installation starts, a test is conducted, if system requirements are met.';
 
-$LNG['licence_head']			= 'Lizenzbestimmungen';
-$LNG['licence_desc']			= 'Bitte lesen Sie die folgenden Lizenzbestimmungen. Verwenden Sie die Bildlaufleiste, um das gesamte Dokument anzuzeigen.';
-$LNG['licence_accept']			= 'Akzeptieren Sie sämtliche Bedingungen der Lizenzbestimmungen? Sie können die Software nur installieren, wenn Sie die Lizenzbestimmungen akzeptieren.';
-$LNG['licence_need_accept']		= 'Um mit der Installation fortfahren zu können, müssen Sie die Lizenzbestimmungen akzeptieren.';
+$LNG['licence_head']			= 'License Agreement';
+$LNG['licence_desc']			= 'Please read the following License Agreement. Use the scroll bar to view the entire document.';
+$LNG['licence_accept']			= 'Do you accept all terms of the license agreement? You can install the software only if you accept the license agreement.';
+$LNG['licence_need_accept']		= 'In order to proceed with the installation, you must accept the license terms.';
 
-$LNG['req_head']				= 'Benötigte Systemvoraussetzungen';
-$LNG['req_desc']				= 'Bevor die Installation fortgesetzt werden kann, wird 2Moons einige Tests zu deiner Server-Konfiguration und deinen Dateien durchführen, um sicherzustellen, dass du 2Moons installieren und benutzen kannst. Bitte lies die Ergebnisse aufmerksam durch und fahre nicht weiter fort, bevor alle erforderlichen Tests bestanden sind. Falls du irgendeine der Funktionen, die unter den optionalen Modulen aufgeführt sind, nutzen möchtest, solltest du sicherstellen, dass die entsprechenden Tests auch bestanden werden.';
-$LNG['reg_yes']					= 'Ja';
-$LNG['reg_no']					= 'Nein';
-$LNG['reg_found']				= 'Gefunden';
-$LNG['reg_not_found']			= 'Nicht Gefunden';
-$LNG['reg_writable']			= 'Beschreibbar';
-$LNG['reg_not_writable']		= 'Nicht Beschreibbar';
-$LNG['reg_file']				= 'Datei &raquo;%s&laquo; beschreibbar?';
-$LNG['reg_dir']					= 'Ordner &raquo;%s&laquo; beschreibbar?';
-$LNG['req_php_need']			= 'Installierte Version der Skriptsprache &raquo;PHP&laquo;';
-$LNG['req_php_need_desc']		= '<strong>Voraussetzung</strong> — PHP ist die Serverseitige Sprache, in der 2Moons geschrieben ist. Damit 2Moons ohne Einschränkungen funktioniert, wird die PHP Version 5.2.5 vorrausgesetzt.';
-$LNG['reg_gd_need']				= 'Installierte Version der Grafikbearbeitungs-Bibliothek &raquo;gdlib&laquo;';
+$LNG['req_head']				= 'System Requirements';
+$LNG['req_desc']				= 'Before the installation can continue, 2Moons will perform some tests on your server configuration and your files to ensure that you can install and use 2Moons. Please read the results carefully and proceed no further until all required tests are passed. If you wish to use any of the functions listed under the optional modules, you should ensure that appropriate tests are also passed.';
+$LNG['reg_yes']					= 'Yes';
+$LNG['reg_no']					= 'No';
+$LNG['reg_found']				= 'Found';
+$LNG['reg_not_found']			= 'Not found';
+$LNG['reg_writable']			= 'Writable';
+$LNG['reg_not_writable']		= 'Not Writable';
+$LNG['reg_file']				= 'Files &raquo;%s&laquo; writable?';
+$LNG['reg_dir']					= 'Folder &raquo;%s&laquo; writable?';
+$LNG['req_php_need']			= 'Installed version of the scripting language PHP (minimun 5.2.5 required)';
+$LNG['req_php_need_desc']		= '<strong>Prerequisite</strong> — PHP is the server-side language that 2Moons is written in. PHP version 5.2.5 is required to install 2Moons.';
+$LNG['reg_gd_need']				= 'Installed version of the graphics processing library  &raquo;gdlib&laquo;';
 $LNG['reg_gd_desc']				= '<strong>Optional</strong> — Grafikbearbeitungs-Bibliothek &raquo;gdlib&laquo; ist für die dynamische Generierung von Bildern zuständig. Ohne sie werden einige Funktionalitäten der Software nicht funktionieren.';
-$LNG['reg_mysqli_active']		= 'Unterstützung der &raquo;MySQLi&laquo; Extension';
-$LNG['reg_mysqli_desc']			= '<strong>Voraussetzung</strong> — Du musst Unterstützung für MySQLi in PHP bereitstellen. Falls keine Datenbank-Module als verfügbar angezeigt werden, solltest du deinen Webhosting-Provider kontaktieren oder die entsprechende PHP-Dokumentation zu Rate ziehen.';
-$LNG['reg_json_need']			= 'Erweiterung &raquo;JSON&laquo; verfügbar?';
+$LNG['reg_mysqli_active']		= 'MySQL available?';
+$LNG['reg_mysqli_desc']			= '<strong>Prerequisite</strong> — You need to provide support for MySQLi in PHP. If no database modules are shown as being available, you should contact your hosting provider or review the relevant PHP installation documentation for advice.';
+$LNG['reg_json_need']			= 'JSON available?';
 $LNG['reg_iniset_need']			= 'PHP-Funktion &raquo;ini_set&laquo; vorhanden?';
 $LNG['reg_global_need']			= 'register_globals deaktiviert?';
 $LNG['reg_global_desc']			= '2Moons wird auch funktionieren, wenn diese Einstellung aktiviert ist. Allerdings wird aus Sicherheitsgründen empfohlen, register_globals in der PHP-Installation zu deaktivieren, falls dies möglich ist.';
