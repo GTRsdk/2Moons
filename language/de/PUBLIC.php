@@ -59,28 +59,28 @@ $LNG['login_info']				= 'By logging in I accept the <a href="index.php?page=rule
 /* ------------------------------------------------------------------------------------------ */
 
 //reg.php - Registrierung
-$LNG['register_closed']				= 'Registration geschlossen!';
-$LNG['register_at']					= 'Registriert bei ';
-$LNG['reg_mail_message_pass']		= 'Noch ein Schritt zur Aktivierung Ihres Usernamen';
-$LNG['reg_mail_reg_done']			= 'Willkommen bei %s!';
-$LNG['invalid_mail_adress']			= 'Ungültige E-mail Adresse!';
-$LNG['empty_user_field']			= 'Sie müssen einen Usernamen eingeben!';
-$LNG['password_lenght_error']		= 'Das Passwort muss mindestens 6 Zeichen lang sein!';
-$LNG['user_field_specialchar']		= 'Im Username sind nur Zahlen, Buchstaben, Leerzeichen, _, -, . erlaubt!';
-$LNG['planet_field_no']				= 'Sie müssen einen Planetennamen eingeben!';
-$LNG['planet_field_specialchar']	= 'Im Planetennamen sind nur Zahlen, Buchstaben, Leerzeichen, _, -, . erlaubt!';
-$LNG['terms_and_conditions']		= 'Sie müssen die Regeln akzeptieren!';
-$LNG['user_already_exists']			= 'Der Username ist bereits vergeben!';
-$LNG['mail_already_exists']			= 'Die E-mail Adresse ist bereits in Benutzung!';
-$LNG['wrong_captcha']				= 'Sicherheitscode falsch!';
-$LNG['different_passwords']			= 'Sie haben 2 unterschiedliche Passwörter eingegeben!';
-$LNG['different_mails']				= 'Sie haben 2 unterschiedliche E-Mail Adressen angegeben!';
+$LNG['register_closed']				= 'Registration closed';
+$LNG['register_at']					= 'Registered at ';
+$LNG['reg_mail_message_pass']		= 'One more step to activate your account';
+$LNG['reg_mail_reg_done']			= 'Welcome to %s!';
+$LNG['invalid_mail_adress']			= 'Invalid email address';
+$LNG['empty_user_field']			= 'You must enter a username';
+$LNG['password_lenght_error']		= 'The password must be at least 6 characters long.';
+$LNG['user_field_specialchar']		= 'In the username only numbers, letters, spaces, _, -, and . are allowed.';
+$LNG['planet_field_no']				= 'You must enter a name for your planet';
+$LNG['planet_field_specialchar']	= 'In the planet name only numbers, letters, spaces, _, -, and . are allowed. ';
+$LNG['terms_and_conditions']		= 'You must accept the rules in order to play.';
+$LNG['user_already_exists']			= 'The username is already in use';
+$LNG['mail_already_exists']			= 'The email address is already in use.';
+$LNG['wrong_captcha']				= 'Incorrect CAPTCHA answer. Please try again.';
+$LNG['different_passwords']			= 'Passwords do not match';
+$LNG['different_mails']				= 'Email addresses do not match';
 $LNG['welcome_message_from']		= 'Administrator';
 $LNG['welcome_message_sender']		= 'Administrator';
-$LNG['welcome_message_subject']		= 'Willkommen';
-$LNG['welcome_message_content']		= 'Willkommen beim %s! Baue zuerst ein Solarkraftwerk, denn Energie wird für die spätere Rohstoffproduktion benötigt. Um diese zu bauen, klicke links im Menu auf "Gebäude". Danach baue das 4. Gebäude von oben. Da du nun Energie hast, kannst du anfangen Minen zu bauen. Gehe dazu wieder im Menü auf Gebäude und baue eine Metallmine, danach wieder eine Kristallmine. Um Schiffe bauen zu können musst du zuerst eine Raumschiffswerft gebaut haben. Was dafür benötigt wird findest du links im Menüpunkt Technologie. Das Team wünscht dir viel Spaß beim Erkunden des Universums!';
-$LNG['reg_completed']				= 'Danke für ihre Anmeldung! Sie erhalten eine E-Mail mit einem aktivierungs Link.';
-$LNG['planet_already_exists']		= 'Die Planetenposition ist bereits belegt!';
+$LNG['welcome_message_subject']		= 'Welcome to %s';
+$LNG['welcome_message_content']		= 'Welcome to %s! First build a solar power plant, because energy is required for the subsequent production of raw materials. To build it, go to the menu and click on "building". Then build the 4th Building from above. Since you have power now, you can begin to build mines. Jump to the menu again on building and construct a metal mine, then again a crystal mine. To build ships you need to have first built a space ship yard. To find what you need, go to the Technology menu.. The team wishes you much fun exploring the universe!';
+$LNG['reg_completed']				= 'Thank you for registering! You will soon receive an email with an activation link.';
+$LNG['planet_already_exists']		= 'The planet is already taken.';
 
 //registry_form.tpl
 $LNG['server_message_reg']			= 'Registriere dich jetzt und werde ein Teil von';
