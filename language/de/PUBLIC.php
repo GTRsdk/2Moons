@@ -83,42 +83,42 @@ $LNG['reg_completed']				= 'Thank you for registering! You will soon receive an 
 $LNG['planet_already_exists']		= 'The planet is already taken.';
 
 //registry_form.tpl
-$LNG['server_message_reg']			= 'Registriere dich jetzt und werde ein Teil von';
-$LNG['register_at_reg']				= 'Registriert bei';
-$LNG['uni_reg']						= 'Universum';
-$LNG['user_reg']					= 'User';
-$LNG['pass_reg']					= 'Passwort';
-$LNG['pass2_reg']					= 'Passwort wiederhohlen';
-$LNG['email_reg']					= 'E-Mail Adresse';
-$LNG['email2_reg']					= 'E-Mail Adresse wiederhohlen';
-$LNG['planet_reg']					= 'Name des Hauptplaneten';
-$LNG['ref_reg']						= 'Geworben von';
-$LNG['lang_reg']					= 'Sprache';
-$LNG['register_now']				= 'Registrieren!';
-$LNG['captcha_reg']					= 'Sicherheitsfrage';
-$LNG['accept_terms_and_conditions']	= 'Ich bin mit den <a href="index.php?page=rules">Regeln</a> einverstanden.';
-$LNG['captcha_help']				= 'Hilfe';
-$LNG['captcha_get_image']			= 'Lade Bild-CAPTCHA';
-$LNG['captcha_reload']				= 'Neues CAPTCHA';
-$LNG['captcha_get_audio']			= 'Lade Sound-CAPTCHA';
-$LNG['user_active']					= 'User %s wurde aktiviert!';
+$LNG['server_message_reg']			= 'Register now and become part of';
+$LNG['register_at_reg']				= 'Register at';
+$LNG['uni_reg']						= 'Universe';
+$LNG['user_reg']					= 'Username';
+$LNG['pass_reg']					= 'Password';
+$LNG['pass2_reg']					= 'Password Confirmation';
+$LNG['email_reg']					= 'Email address';
+$LNG['email2_reg']					= 'Email address confirmation';
+$LNG['planet_reg']					= 'Name of main planet';
+$LNG['ref_reg']						= 'Referred by';
+$LNG['lang_reg']					= 'Language';
+$LNG['register_now']				= 'Register!';
+$LNG['captcha_reg']					= 'CAPTCHA (enter the two words separated by a space)';
+$LNG['accept_terms_and_conditions']	= 'I accept the <a href="index.php?page=rules">Rules</a>.';
+$LNG['captcha_help']				= 'Help';
+$LNG['captcha_get_image']			= 'Get image';
+$LNG['captcha_reload']				= 'Reload CAPTCHA';
+$LNG['captcha_get_audio']			= 'Audio CAPTCHA';
+$LNG['user_active']					= 'User %s has been activated!';
 
 //Rules
-$LNG['rules_overview']				= "Regelwerk";
-$LNG['rules_info1']					= "Es wird aber im <a href=\"%s\" target=\"_blank\">Forum</a> und über die Startseite im Game darüber Informiert ...";
+$LNG['rules_overview']				= "Rules";
+$LNG['rules_info1']					= "You are informed about this at the <a href=\"%s\" target=\"_blank\">Forum</a> and on the homepage of the game...";
 
 
 //NEWS
 
 $LNG['news_overview']				= "News";
-$LNG['news_from']					= "Am %s von %s";
-$LNG['news_does_not_exist']			= "Keine News vorhanden!";
+$LNG['news_from']					= "On %s by %s";
+$LNG['news_does_not_exist']			= "No news available!";
 
 //Impressum
 
-$LNG['disclamer']					= "Haftungsausschluss";
+$LNG['disclamer']					= "Disclaimer";
 $LNG['disclamer_name']				= "Name:";
-$LNG['disclamer_adress']			= "Adresse:";
-$LNG['disclamer_tel']				= "Telefon Nr.:";
-$LNG['disclamer_email']				= "E-Mail Adresse:";
+$LNG['disclamer_adress']			= "Address:";
+$LNG['disclamer_tel']				= "Phone:";
+$LNG['disclamer_email']				= "Email Address:";
 ?>
