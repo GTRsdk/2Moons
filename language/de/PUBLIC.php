@@ -25,36 +25,36 @@ $LNG['mail_sended']			= 'Your password has been successfully sent to %s';
 
 $LNG['server_infos']			= array(
 	"A space strategy game in real time.",
-	"Spiele zusammen mit hunderten Usern.",
-	"Kein Download, es wird nur ein Standardbrowser benötigt.",
-	"Kostenlose Registrierung",
+	"Play along with hundreds of users.",
+	"No downloading, only a standard web browser is needed..",
+	"Free registration",
 );
 
-$LNG['login_error_1']		= 'Falscher Benutzername/Passwort!';
-$LNG['login_error_2']		= 'Jemand hat sich von einem anderem PC in deinem Account eingeloggt!';
-$LNG['login_error_3']		= 'Deine Session ist abgelaufen!';
-$LNG['login_error_4']		= 'Es gab einen Fehler bei der externen Autorisierung, bitte versuche Sie es später noch einmal!';
+$LNG['login_error_1']		= 'Wrong Username/Password!';
+$LNG['login_error_2']		= 'Someone has logged in from another PC into your account';
+$LNG['login_error_3']		= 'Your session has expired';
+$LNG['login_error_4']		= 'There was an error in the external authorization. Please try again later.';
 $LNG['screenshots']			= 'Screenshots';
-$LNG['universe']			= 'Universum';
-$LNG['chose_a_uni']			= 'Wähle ein Universum';
+$LNG['universe']			= 'Universe';
+$LNG['chose_a_uni']			= 'Choose a Universe';
 
 /* ------------------------------------------------------------------------------------------ */
 
 //lostpassword.tpl
-$LNG['lost_pass_title']			= 'Passwort wiederherstellen';
+$LNG['lost_pass_title']			= 'Password Recovery';
 
 //index_body.tpl
 $LNG['user']					= 'User';
-$LNG['pass']					= 'Passwort';
+$LNG['pass']					= 'Password';
 $LNG['remember_pass']			= 'Auto-Login';
-$LNG['lostpassword']			= 'Passwort vergessen?';
-$LNG['welcome_to']				= 'Willkommen bei';
-$LNG['server_description']		= '<strong>%s</strong> ist ein <strong>Weltraum-Strategiespiel mit hunderten Spielern</strong> die erdumgreifend <strong>gleichzeitig</strong> versuchen der/die Beste zu werden. Alles was ihr zum spielen braucht ist ein Standartwebbrowser.';
-$LNG['server_register']			= 'Registrieren Sie sich Jetzt!';
-$LNG['server_message']			= 'Registriere dich jetzt und erlebe eine neue, spannende Welt ';
+$LNG['lostpassword']			= 'Forgot Password?';
+$LNG['welcome_to']				= 'Welcome to';
+$LNG['server_description']		= '<strong>%s</strong> is a <strong>space strategy game with hundreds of players</strong> around the world <strong>simultaneously</strong> trying to be the best. All you need to play is a standard web browser.';
+$LNG['server_register']			= 'Sign up now!';
+$LNG['server_message']			= 'Sign up now  and experience a new and exciting world';
 $LNG['login']					= 'Login';
-$LNG['disclamer']				= 'Impressum';
-$LNG['login_info']				= 'Mit dem Login akzeptiere ich die <a href="index.php?page=rules">Regeln</a>';
+$LNG['disclamer']				= 'Contact';
+$LNG['login_info']				= 'By logging in I accept the <a href="index.php?page=rules">Rules</a>';
 
 /* ------------------------------------------------------------------------------------------ */
 
