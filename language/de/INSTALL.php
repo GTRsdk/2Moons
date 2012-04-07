@@ -92,27 +92,27 @@ $LNG['step2_db_no_dbname']		= 'Database name is not specified.';
 $LNG['step2_db_too_long']		= 'The specified table prefix is too long. Maximum prefix length is 36 characters.';
 $LNG['step2_db_con_fail']		= 'No connection to the database could be established.Details:';
 $LNG['step2_config_exists']		= 'config.php already exists!';
-$LNG['step2_conf_op_fail']		= 'config.php ist nicht beschreibbar!';
-$LNG['step2_conf_create']		= 'config.php erfolgreich erstellt...';
-$LNG['step2_db_done']			= 'Verbindung zur Datenbank war erfolgreich!';
+$LNG['step2_conf_op_fail']		= 'config.php is not writable!';
+$LNG['step2_conf_create']		= 'config.php successfully created...';
+$LNG['step2_db_done']			= 'Connection to the database was successful!';
 
-$LNG['step3_head']				= 'Datenbank-Tabellen erstellen';
-$LNG['step3_desc']				= 'Die von 2Moons genutzten Datenbank-Tabellen wurden nun erstellt und mit einigen Ausgangswerten gefüllt. Geh weiter zum nächsten Schritt, um die Installation von 2Moons abzuschließen.';
+$LNG['step3_head']				= 'Create database tables';
+$LNG['step3_desc']				= 'The database tables used by 2Moons have now been created and populated with some initial values​​. Go to the next step to complete the installation of 2Moons.';
 
-$LNG['step4_head']				= 'Administrator erstellen';
-$LNG['step4_desc']				= 'Der Installationsassistent erstellt nun ein Administrator-Konto für Sie. Bitte geben Sie dazu einen Benutzernamen, eine E-Mail-Adresse und ein Kennwort ein.';
-$LNG['step4_admin_name']		= 'Benutzername des Administrators:';
-$LNG['step4_admin_name_desc']	= 'Bitte gib einen Benutzernamen mit einer Länge von 3 bis 20 Zeichen ein.';
-$LNG['step4_admin_pass']		= 'Administrator-Passwort:';
-$LNG['step4_admin_pass_desc']	= 'Bitte gib ein Passwort mit einer Länge von 6 bis 30 Zeichen ein.';
-$LNG['step4_admin_mail']		= 'Kontakt-E-Mail-Adresse:';
+$LNG['step4_head']				= 'Administration';
+$LNG['step4_desc']				= 'The installation wizard will now create an administrator account for you. Please enter a username, an e-mail address and a password.';
+$LNG['step4_admin_name']		= 'Administrator username:';
+$LNG['step4_admin_name_desc']	= 'Please enter a username with a length of 3 to 20 characters.';
+$LNG['step4_admin_pass']		= 'Administrator Password:';
+$LNG['step4_admin_pass_desc']	= 'Please enter a password with a length of 6 to 30 characters.';
+$LNG['step4_admin_mail']		= 'Administrator email address:';
 
-$LNG['step6_head']				= 'Herzlichen Glückwunsch!';
-$LNG['step6_desc']				= 'Du hast 2Moons erfolgreich installiert.';
-$LNG['step6_info_head']			= 'Starte mit 2Moons durch!';
-$LNG['step6_info_additional']	= 'Wenn du unten auf die Schaltfläche klickst, wirst du zu einem Formular im Administrations-Bereich weitergeleitet. Anschließend solltest du dir etwas Zeit nehmen, um die verfügbaren Optionen kennen zu lernen.<br/><br/><strong>Bitte lösche die Datei &raquo;includes/ENABLE_INSTALL_TOOL&laquo; oder nenne es um, bevor du dein Spiel benutzt. Solange diese Datei existiert, ist dein Spiel potenziell gefährdet!</strong>';
+$LNG['step6_head']				= 'Congratulations!';
+$LNG['step6_desc']				= 'You have successfully installed 2Moons.';
+$LNG['step6_info_head']			= 'Start with 2Moons by!';
+$LNG['step6_info_additional']	= 'If you click on the button below, you will be redirected to a form in the admin area. Then you should look to take some time to get to know the options available..<br/><br/><strong>Please delete the file &raquo;includes/ENABLE_INSTALL_TOOL&laquo; or call it before you use your game. As long as this file exists, your game is potentially at risk!</strong>';
 
-$LNG['sql_close_reason']		= 'Game ist zurzeit geschlossen';
-$LNG['sql_welcome']				= 'Herzlich Willkommen zu 2Moons v';
+$LNG['sql_close_reason']		= 'Game is currently closed';
+$LNG['sql_welcome']				= 'Welcome to 2Moons v';
 
 ?>
